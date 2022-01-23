@@ -1,0 +1,5 @@
+name: UserShopControl
+version: ${project.version}
+main: xyz.masa3mc.usershopcontrol.UserShopControl
+api-version: 1.18
+author: なめたろう
